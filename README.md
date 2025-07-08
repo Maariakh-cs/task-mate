@@ -5,7 +5,7 @@ A basic Task Manager web application to organize and manage your daily tasks eff
 ## 🌐 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python (Flask or plain Python)
+- **Backend**: Python 
 
 ## ✨ Features
 
