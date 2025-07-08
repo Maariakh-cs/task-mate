@@ -23,10 +23,10 @@ task-manager/
 ├── app.py
 └── README.md
 
-Author
+🙋‍♀️ Author
 Maaria Khan
-Final Year Computer Science Student
-🔗 www.linkedin.com/in/maariak-cs
+Final Year Computer Science Engineering Student
+🔗www.linkedin.com/in/maariak-cs
 
 
 
