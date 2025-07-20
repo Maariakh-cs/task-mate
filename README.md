@@ -118,19 +118,10 @@ task_manager/
 
 ---
 
-## 📃 License
-
-This project is for educational/demo purposes and is not intended for production use. Customize it freely!
-
----
-
-### Made with ❤️ using Flask
-
-
 🙋‍♀️ Author
 Maaria Khan
 Final Year Computer Science Engineering Student
-🔗www.linkedin.com/in/maariak-cs
+🔗www.linkedin.com/in/maariakh-cs
 
 
 
