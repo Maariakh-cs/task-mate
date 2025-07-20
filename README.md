@@ -118,7 +118,7 @@ task_manager/
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Maaria Khan
 Final Year Computer Science Engineering Student
 🔗www.linkedin.com/in/maariakh-cs
